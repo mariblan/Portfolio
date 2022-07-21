@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.79b582d2.css",
+    "main.js": "/portfolio/static/js/main.4972a766.js",
+    "static/js/787.82502b74.chunk.js": "/portfolio/static/js/787.82502b74.chunk.js",
+    "static/media/maria.JPG": "/portfolio/static/media/maria.612d5f38b0d9514f94b5.JPG",
+    "static/media/portada_abajo.png": "/portfolio/static/media/portada_abajo.9f2f6ef937c4873233d1.png",
+    "static/media/gridhaikei1024.svg": "/portfolio/static/media/gridhaikei1024.67ba937444f0a4f23c73.svg",
+    "static/media/gridhaikei800.svg": "/portfolio/static/media/gridhaikei800.be15bbb3bfc436cc77df.svg",
+    "static/media/cookbookplaceholder.jpeg": "/portfolio/static/media/cookbookplaceholder.a9cb34a1c2b34882753f.jpeg",
+    "index.html": "/portfolio/index.html",
+    "main.79b582d2.css.map": "/portfolio/static/css/main.79b582d2.css.map",
+    "main.4972a766.js.map": "/portfolio/static/js/main.4972a766.js.map",
+    "787.82502b74.chunk.js.map": "/portfolio/static/js/787.82502b74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79b582d2.css",
+    "static/js/main.4972a766.js"
+  ]
+}
